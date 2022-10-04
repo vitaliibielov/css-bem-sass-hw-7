@@ -222,7 +222,7 @@ button {
   --secondary-bg-color: #f5f4fa;
 }
 
-.novisible {
+.feature__main-title {
   position: absolute;
   width: 1px;
   height: 1px;

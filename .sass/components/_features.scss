@@ -1,3 +1,7 @@
+.feature__main-title {
+  @extend %novisible;
+}
+
 .feature__list {
   display: flex;
 }
